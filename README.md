@@ -75,7 +75,7 @@ https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset
 
 The dataset contains retail transaction data including customer information, product categories, shipping details, and sales performance metrics.
 
-## Dataset Structure
+## Dataset Structure 📑
 
 # The dataset includes the following key fields:
 | Column        | Description                       |
