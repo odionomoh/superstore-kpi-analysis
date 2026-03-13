@@ -1,6 +1,42 @@
 # superstore-kpi-analysis
 A data analysis project identifying key business KPIs using the Superstore sales dataset to evaluate revenue performance, regional sales distribution, and product profitability.
 
+[Project Overview](#project-overview)
+
+Problem Statement
+
+Dataset Information
+
+Dataset Source
+
+[Dataset Structure](#dataset-structure)
+
+[Key Performance Indicators (KPIs)](#key-perfomance-indicators)
+
+Total Revenue
+
+Total Profit
+
+Sales by Region
+
+Sales by Product Category
+
+Monthly Sales Trend
+
+Average Order Value
+
+Top Selling Products
+
+[Planned Data Visualizations](#planned-data-visualizations)
+
+[Tools and Technologies](#tools-and-technologies)
+
+[Expected Outcome](#expected-outcome)
+
+[Project Status](#project-status)
+
+[Author](#author)
+
 
 # 📊 Superstore KPI Analysis
 
@@ -177,8 +213,11 @@ The following tools may be used for analysis and visualization:
 By completing this project, the following outcomes will be achieved:
 
 ✔ Identification of top-performing products
+
 ✔ Understanding of regional sales performance
+
 ✔ Evaluation of overall profitability
+
 ✔ Definition of key metrics for business analysis
 
 The project prepares the dataset for further exploration, visualization, and dashboard development.
@@ -186,8 +225,11 @@ The project prepares the dataset for further exploration, visualization, and das
 # 📌 Project Status
 
 ✅ Dataset identified
+
 ✅ Problem statement defined
+
 ✅ Key performance indicators established
+
 ⏳ Data visualization and dashboard development (next stage)
 
 # 👨‍💻 Author
