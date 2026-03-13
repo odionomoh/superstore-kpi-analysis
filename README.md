@@ -31,6 +31,8 @@ Top Selling Products
 
 [Tools and Technologies](#tools-and-technologies)
 
+[Dataset File](#dataset-file)
+
 [Expected Outcome](#expected-outcome)
 
 [Project Status](#project-status)
@@ -221,6 +223,14 @@ By completing this project, the following outcomes will be achieved:
 ✔ Definition of key metrics for business analysis
 
 The project prepares the dataset for further exploration, visualization, and dashboard development.
+
+## Dataset File
+
+The dataset used for this analysis is included in this repository.
+
+Location:
+
+data/Global_Superstore2.csv
 
 ## Project Status
 
