@@ -40,7 +40,7 @@ Top Selling Products
 
 # 📊 Superstore KPI Analysis
 
-## 🧠 Project Overview
+## Project Overview
 
 Data analysis enables businesses to transform raw data into meaningful insights that support strategic decision-making.
 
