@@ -40,7 +40,7 @@ Top Selling Products
 
 # 📊 Superstore KPI Analysis
 
-## Project Overview 🧠
+## Project Overview
 
 Data analysis enables businesses to transform raw data into meaningful insights that support strategic decision-making.
 
@@ -75,7 +75,7 @@ https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset
 
 The dataset contains retail transaction data including customer information, product categories, shipping details, and sales performance metrics.
 
-## Dataset Structure 📑
+## Dataset Structure
 
 # The dataset includes the following key fields:
 | Column        | Description                       |
@@ -103,7 +103,7 @@ The dataset contains retail transaction data including customer information, pro
 | Shipping Cost  | Cost of shipping the order       |
 | Order Priority | Priority level of order delivery |
 
-## Key Performance Indicators (KPIs) 📊 
+## Key Performance Indicators (KPIs)
 
 To evaluate sales performance and business efficiency, the following KPIs were defined:
 
@@ -178,7 +178,7 @@ This KPI helps businesses optimize:
 
 - Sales strategies
 
-## Planned Data Visualizations 📊 
+## Planned Data Visualizations
 
 The dataset will be used to build interactive dashboards showing key business insights.
 
@@ -196,7 +196,7 @@ Planned visualizations include:
 
 These visualizations will transform raw data into meaningful insights.
 
-## Tools and Technologies 🛠 
+## Tools and Technologies
 
 The following tools may be used for analysis and visualization:
 
@@ -208,7 +208,7 @@ The following tools may be used for analysis and visualization:
 | GitHub   | Project documentation                  |
 
 
-## Expected Outcome 🚀 
+## Expected Outcome
 
 By completing this project, the following outcomes will be achieved:
 
@@ -222,7 +222,7 @@ By completing this project, the following outcomes will be achieved:
 
 The project prepares the dataset for further exploration, visualization, and dashboard development.
 
-## Project Status 📌 
+## Project Status
 
 ✅ Dataset identified
 
@@ -232,7 +232,7 @@ The project prepares the dataset for further exploration, visualization, and das
 
 ⏳ Data visualization and dashboard development (next stage)
 
-## Author 👨‍💻 
+## Author
 
 Abu Rachael Odion
 
