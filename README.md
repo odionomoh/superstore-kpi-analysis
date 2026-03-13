@@ -9,9 +9,9 @@ Dataset Information
 
 Dataset Source
 
-[Dataset Structure](#dataset-structure)
+[📑 Dataset Structure](#📑dataset-structure)
 
-[Key Performance Indicators (KPIs)](#key-perfomance-indicators)
+[Key Performance Indicators (KPIs)](#key-perfomance-indicators (kpis))
 
 Total Revenue
 
