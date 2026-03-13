@@ -11,7 +11,7 @@ Dataset Source
 
 [Dataset Structure](#dataset-structure)
 
-[Key Performance Indicators (KPIs)](#key-perfomance-indicators (kpis))
+[Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
 
 Total Revenue
 
